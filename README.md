@@ -28,7 +28,7 @@ persone rispetto all’età (dividendo le età 5 in gruppi, ad esempio
 18-26, 27-35, 36-44, 45-53, e 54+)
 
 Note:
-• Utilizzate la versione 5.12 della libreria Qt.
+• Utilizzare la versione 5.12 della libreria Qt.
 • Sui dati immessi in fase di iscrizione effettuare un controllo di
 coerenza di formato: email <testo>@<dominio>.it, 31/02/1988, ecc.
 • I dati degli utenti devono essere salvati in un file (*.csv) per poter
