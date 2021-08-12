@@ -3,7 +3,7 @@ Il progetto richiede la creazione di un form di iscrizione e login in cui gli
 utenti possano registrarsi e effettuare il login per visualizzare la propria
 pagina personale. È inoltre presente una pagina admin per la gestione degli utenti.
 
-# Funzionalità
+## Funzionalità
 Le funzionalità attese sono le seguenti:
 1. Iscrizione con obbligo di inserire: nome, cognome, numero di cellulare o
 e-mail, password, data di nascita, e genere. Prima di confermare
